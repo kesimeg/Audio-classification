@@ -1,6 +1,6 @@
 # Audio-classification
 Classification of different audio classes using pytorch.
-First you need to download ----- dataset and put files into the data folder.
+First you need to download FSDKaggle2018 dataset and put files into the data folder.
 
 1) Audio_data_analysis.ipynb -> Analyses the data distribution
 2) Feature extraction.ipynb  -> Extracts features from audio samples
